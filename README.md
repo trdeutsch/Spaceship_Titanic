@@ -72,7 +72,7 @@ MODELING
 
 - Split data: Split 70% of the data for training and 30% of the data for testing purposes, with random_state parameter = 2.
 
-- Model selection: Decision Tree
+- Model selection: Logistic Regression
 
 - Model parameters selection: Use GridSearchCV to find the best parameter with the best score.
 
