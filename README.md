@@ -29,6 +29,7 @@ The data was downloaded from Kaggle in CSV format.
 DATA UNDERSTANDING 
 
 The data include 3 CSV files, which are sample_submission.csv, test.csv, and train.csv. Each file contains columns, ie:
+
 train.csv: Personal records for about two-thirds (~8700) of the passengers, to be used as training data.
 
 - PassengerId: A unique Id for each passenger. Each Id takes the form gggg_pp where gggg indicates a group the passenger is traveling with and pp is their number within the group. People in a group are often family members, but not always.
