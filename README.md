@@ -61,13 +61,12 @@ sample_submission.csv: A submission file in the correct format.
 
 DATA PREPARATION
 
-- Clean data: Drop missing values, and duplicate values using NumPy. Replace missing values with frequent values and mean values using NumPy.
+- Clean data: Replace missing values with frequent values and mean values using NumPy.
 
 - Transforming: Transform data type. Convert categorical values into numerical values using LabelEncoder.
 
 - Standardizing: Transform data values into smaller values using StandardScaler.
 
-- Features Engineering: Combine different columns into a new one.
 
 MODELING
 
